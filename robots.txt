@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mayureshphonde.github.io/Kabaddi-pune-SEO/sitemap.xml
